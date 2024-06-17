@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/gimsiyun24/movie_app_2024/static/js/main.9b14f644.js",
+    "main.css": "/gimsiyun24/movie_app_2024/static/css/main.e6c13ad2.css",
+    "main.js": "/gimsiyun24/movie_app_2024/static/js/main.f0ace7f3.js",
+    "static/js/453.adbb3421.chunk.js": "/gimsiyun24/movie_app_2024/static/js/453.adbb3421.chunk.js",
     "index.html": "/gimsiyun24/movie_app_2024/index.html",
-    "main.9b14f644.js.map": "/gimsiyun24/movie_app_2024/static/js/main.9b14f644.js.map"
+    "main.e6c13ad2.css.map": "/gimsiyun24/movie_app_2024/static/css/main.e6c13ad2.css.map",
+    "main.f0ace7f3.js.map": "/gimsiyun24/movie_app_2024/static/js/main.f0ace7f3.js.map",
+    "453.adbb3421.chunk.js.map": "/gimsiyun24/movie_app_2024/static/js/453.adbb3421.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9b14f644.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0ace7f3.js"
   ]
 }
